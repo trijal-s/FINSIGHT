@@ -1,0 +1,4 @@
+pdfplumber 
+chromadb 
+langchain-text-splitters 
+langchain-ollama
